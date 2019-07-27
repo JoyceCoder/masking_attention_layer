@@ -1,0 +1,2 @@
+# masking_attention_layer
+[python]keras实现的支持masking的attention层。目前做的是针对特征值的权重选择，隐藏层的选择稍后更新。
